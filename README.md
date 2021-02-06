@@ -1,7 +1,7 @@
 
-# Código Del Curso de Traversy Media en Udemy. Proyecto Modern HTML & CSS From The Beginning
+# Código Del Curso de Traversy Media en Udemy. Modern HTML & CSS From The Beginning
 
-## Proyecto Knowledge Timeline. Videos 88
+## Proyecto Dropdown Menu. Videos 88
 
 ### Medios de contacto del autor del video:
 
@@ -10,6 +10,7 @@
 + http://www.instagram.com/traversymedia
 
 ### Lessons Learned
-    
+     Menu dropdown on hover
+    - Efecto de transitionIn en área showcase.
 
 _Febrero 2021 Omar Rosas_
